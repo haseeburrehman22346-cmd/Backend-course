@@ -1,0 +1,25 @@
+{
+  "name": "backend-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haseeburrehman22346-cmd/Backend-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/haseeburrehman22346-cmd/Backend-course/issues"
+  },
+  "homepage": "https://github.com/haseeburrehman22346-cmd/Backend-course#readme",
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
